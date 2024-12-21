@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><a href = "purnadutta@umass.edu">purnadutta@umass.edu</a></p>
-    <p><a href = "purnadutta08@gmail.com">purnadutta08@gmail.com</a></p>
+    <p><a href = "mailto:purnadutta@umass.edu">purnadutta@umass.edu</a></p>
+    <p><a href = "mailto:purnadutta08@gmail.com">purnadutta08@gmail.com</a></p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
