@@ -21,6 +21,6 @@ social: false # includes social icons at the bottom of the page
         
 <p>I finished BS and MS in Mathematics and Computer Science from <a href="https://www.iiserbpr.ac.in/">Indian Institute of Science Education and Research, Berhampur</a>. I pursued my MS thesis project in theoretical computer science under the guidance of <a href="https://sites.google.com/view/sakethome">Prof. Saket Saurabh</a> at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences, Chennai</a>.</p>
 
-# Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
