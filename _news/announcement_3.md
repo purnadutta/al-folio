@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+May 2022 - Jul 2022: DAAD-WISE intern at <a href="https://www.tu.berlin/en/">Technical University, Berlin</a>
