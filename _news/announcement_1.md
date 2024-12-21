@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Aug 2023 - Apr 2024: Visiting student at <a href="https://www.imsc.res.in/">The Institute of Mathematical Sciences, Chennai</a>
